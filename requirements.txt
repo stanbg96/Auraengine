@@ -1,6 +1,5 @@
 kivy
 requests
-moderngl
 overpy
 numpy
 pillow
