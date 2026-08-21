@@ -13,3 +13,4 @@ source.dir = .
 android.accept_sdk_license = True
 # force
 android.ndk = 25b
+log_level = 2
