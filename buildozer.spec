@@ -9,3 +9,4 @@ orientation = landscape
 fullscreen = 1
 android.archs = arm64-v8a
 android.permissions = INTERNET, ACCESS_NETWORK_STATE, WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE
+source.dir = .
