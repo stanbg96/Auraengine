@@ -12,3 +12,4 @@ android.permissions = INTERNET, ACCESS_NETWORK_STATE, WRITE_EXTERNAL_STORAGE, RE
 source.dir = .
 android.accept_sdk_license = True
 # force
+android.ndk = 25b
