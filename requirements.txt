@@ -1,5 +1,4 @@
 kivy
 requests
 overpy
-numpy
 pillow
